@@ -3,12 +3,6 @@
 
 A cross-platform digital entity. Glitch is a self-moving, AI-powered companion that lives on your desktop.
 
-## 🌐 Web Version (GitHub Pages)
-You can view the web-based simulation directly in your browser. 
-👉 **[Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)**
-
-The web version includes a fake OS interface, a working terminal, and a voice-enabled AI chat window.
-
 ## 💻 Native App (Python)
 The Python version runs natively on Windows, macOS, and Linux. It creates a transparent overlay on your desktop, allowing Glitch to float around your screen like a living creature.
 
