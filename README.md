@@ -31,7 +31,6 @@ python glitch.py
 - **Autonomous Movement:** Glitch wanders around your screen every 3 seconds.
 - **Voice AI:** Double-click the entity to open a chat window. Click the 🎤 to talk. Glitch will reply out loud.
 - **Local Inference:** Connects to your local Ollama instance. No internet required, no API keys, completely private.
-- **Fake OS Interface:** Includes a fully functional HTML terminal simulation in the web version.
 
 Built by OnyxSoul.
 and i don't do anything for anyhacking or something is  you and i made it ! and be good
